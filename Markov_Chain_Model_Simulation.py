@@ -1,7 +1,3 @@
-
-# Transform to a "Markov Chain" object???
-
-
 import math as m
 import matplotlib.pyplot as plt
 from numba import jit
@@ -268,4 +264,5 @@ if __name__ == "__main__":
     # Runs a test simulation, with default values of most parameters
     runAndPlotSimulation(10)
     
+
 
